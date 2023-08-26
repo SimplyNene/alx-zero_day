@@ -1,1 +1,2 @@
-updating readme, as asked
+how to be up to date
+
